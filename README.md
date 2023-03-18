@@ -6,3 +6,5 @@
 - Implemented three voting methods: Borda Count, Plurality Voting and the Average of Preferences
 - Solved the Cold Start problem by using cosine similarity
 - Established the value fo hyperparameters experimentally
+
+- Used numpy, pandas, scipy, BeautifulSoup and sklearn
