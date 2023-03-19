@@ -8,3 +8,4 @@
 - Established the value fo hyperparameters experimentally
 
 - Used numpy, pandas, scipy, BeautifulSoup and sklearn
+- This model is deployed on a [Django Server](https://github.com/CristinaRacovita/django-server) and used by an [Android Client](https://github.com/CristinaRacovita/final-project)
